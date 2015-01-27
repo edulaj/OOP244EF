@@ -23,7 +23,7 @@
     <ClCompile Include="constainer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="testContainer.cpp">
+    <ClCompile Include="containerApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
