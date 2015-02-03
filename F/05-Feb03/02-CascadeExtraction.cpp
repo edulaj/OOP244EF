@@ -13,6 +13,7 @@ int main() {
   cin >> i >> c >> x >> s;
   cout << "Entered " << i << ' '
     << c << ' ' << x << ' ' << s << endl;
+  return 0;
 }
 
 

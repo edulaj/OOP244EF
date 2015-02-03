@@ -7,6 +7,7 @@ int main() {
   cout << "Enter a string : " << endl;
   cin >> str;
   cout << "|" << str << "|" << endl;
+  return 0;
 }
 
-// enter a word with spaces before and after. 
+// enter a word with spaces before and after.

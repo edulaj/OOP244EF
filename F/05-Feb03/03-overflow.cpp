@@ -14,6 +14,7 @@ int main() {
   cout << "Entered " << endl;
   cout << i << ' '
     << c << ' ' << x << ' ' << s << endl;
+  return 0;
 }
 
 // enter: 10 C 2.34 HelloThereHowAreyou.
